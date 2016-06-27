@@ -1,0 +1,8 @@
+{
+  "name": "tonoman3g/phpcs-variable-analysis",
+  "description": "A PHP_CodeSniffer standard for Variable Analysis",
+  "license": "MIT",
+  "require": {
+    "squizlabs/php_codesniffer": "~2.0"
+  }
+}
