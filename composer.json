@@ -5,5 +5,5 @@
   "require": {
     "squizlabs/php_codesniffer": "~2.0"
   },
-  "target-dir" : "Generic"
+  "target-dir" : "Tonoman3g"
 }
